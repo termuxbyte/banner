@@ -29,11 +29,11 @@ clear
 
 #sl -alFc | lolcat
 
-#toilet "code-Nea" --gay
+#toilet "NOMBRE" --gay
 
 toilet -f term -F border --gay ...... . .  B i e n v e n i d o    N O M B R E    . . .....
 
-#figlet -f slant code-Nea | lolcat
+#figlet -f slant NOMBRE | lolcat
 
 date=$(date)
 
