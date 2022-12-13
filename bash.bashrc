@@ -25,13 +25,13 @@ fi
 
 clear
 
-cmatrix -f -u 3
+#cmatrix -f -u 3
 
 #sl -alFc | lolcat
 
 #toilet "code-Nea" --gay
 
-toilet -f term -F border --gay ...... . .  B i e n v e n i d o    N E A  . . .....
+toilet -f term -F border --gay ...... . .  B i e n v e n i d o    N O M B R E    . . .....
 
 #figlet -f slant code-Nea | lolcat
 
@@ -55,8 +55,8 @@ neofetch --bold off --colors 4 1 8 5 8 7
 
 #        echo "==================================== v 0.118.0 =" | lolcat
 
-#PS1='\[\e[0;38;5;35m\]➜ \[\e[0;38;5;31m\]\W \[\e[0;38;5;204m\]NEA \[\e[0;38;5;162m\]\$\[\e[0m\] '
-PS1='\[\e[0;48;5;91m\]\W\[\e[0;38;5;34m\]:\[\e[0;48;5;52m\] NEA \[\e[0;38;5;28m\]{\[\e[0;5;38;5;202m\]\$\[\e[0;38;5;28m\]}\[\e[0m\] '
+#PS1='\[\e[0;38;5;35m\]➜ \[\e[0;38;5;31m\]\W \[\e[0;38;5;204m\]NOMBRE \[\e[0;38;5;162m\]\$\[\e[0m\] '
+PS1='\[\e[0;48;5;91m\]\W\[\e[0;38;5;34m\]:\[\e[0;48;5;52m\] NOMBRE \[\e[0;38;5;28m\]{\[\e[0;5;38;5;202m\]\$\[\e[0;38;5;28m\]}\[\e[0m\] '
 
 ulimit -S -u 100
 
